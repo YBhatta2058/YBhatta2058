@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Bhatta</h1>
 <h3 align="center">A Nepalese frontend wizard crafting digital wonders</h3>
-<img src = "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425_1280.png" height = "600px" align = "center" width = "800px" />
+<img src = "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425_1280.png" height = "500px" align = "center" width = "850px" />
 
 <p align="left"> <a href="https://twitter.com/mads2058" target="blank"><img src="https://img.shields.io/twitter/follow/mads2058?logo=twitter&style=for-the-badge" alt="mads2058" /></a> </p>
 
