@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/mads2058" target="blank"><img src="https://img.shields.io/twitter/follow/mads2058?logo=twitter&style=for-the-badge" alt="mads2058" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js , Django**
-
 - 👨‍💻 You can look at my portfolio on [https://portfolio-yogesh.vercel.app](https://portfolio-yogesh.vercel.app)
 
 - 📝 I regularly write articles on [https://portfolio-yogesh.vercel.app/blog](https://portfolio-yogesh.vercel.app/blog)
