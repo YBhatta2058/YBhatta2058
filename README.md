@@ -1,4 +1,3 @@
-r
 <h1 align="center">Hi 👋, I'm Yogesh Bhatta</h1>
 <h3 align="center">Full Stack Developer from Nepal</h3>
 <img src = "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425_1280.png" height = "500px" align = "center" width = "850px" />
